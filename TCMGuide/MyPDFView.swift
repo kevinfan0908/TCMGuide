@@ -1,6 +1,6 @@
 //
 //  MyPDFView.swift
-//  PDFKitSample
+//  TCMGuide
 //
 //  Created by Kevin Fan on 2022/11/26.
 //  Copyright © 2022 Dobrinka Tabakova. All rights reserved.

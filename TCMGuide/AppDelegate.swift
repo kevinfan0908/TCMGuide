@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  PDFKitSample
+//  TCMGuide
 //
 //  Created by Dobrinka Tabakova on 6/18/17.
 //  Copyright © 2017 Dobrinka Tabakova. All rights reserved.

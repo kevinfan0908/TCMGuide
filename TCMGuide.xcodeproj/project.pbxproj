@@ -10,7 +10,6 @@
 		0A2AE2602939F52700A0DF9B /* OutlineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2AE25F2939F52700A0DF9B /* OutlineTableViewController.swift */; };
 		0A503696293EB49A0032BD31 /* CloudDAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A503695293EB49A0032BD31 /* CloudDAO.swift */; };
 		0A50369A29418AC00032BD31 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A50369929418AC00032BD31 /* Reachability.m */; };
-		0A7AF83D293C206300986C65 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A7AF83C293C206300986C65 /* Launch Screen.storyboard */; };
 		0AB951B52931C79200B33FF0 /* MyPDFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB951B42931C79200B33FF0 /* MyPDFView.swift */; };
 		0AEC5812292C7B560043CD10 /* SHA256.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AEC5811292C7B560043CD10 /* SHA256.swift */; };
 		0AEC5814292C7C570043CD10 /* DataHex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AEC5813292C7C570043CD10 /* DataHex.swift */; };
@@ -29,7 +28,6 @@
 		0A50369829418AC00032BD31 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		0A50369929418AC00032BD31 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		0A561A5D292DDD3D002BE8AA /* TCMGuide.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TCMGuide.entitlements; sourceTree = "<group>"; };
-		0A7AF83C293C206300986C65 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		0AB951B42931C79200B33FF0 /* MyPDFView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPDFView.swift; sourceTree = "<group>"; };
 		0AEC5811292C7B560043CD10 /* SHA256.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHA256.swift; sourceTree = "<group>"; };
 		0AEC5813292C7C570043CD10 /* DataHex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataHex.swift; sourceTree = "<group>"; };
@@ -88,7 +86,6 @@
 				0AEC5813292C7C570043CD10 /* DataHex.swift */,
 				0AB951B42931C79200B33FF0 /* MyPDFView.swift */,
 				0A2AE25F2939F52700A0DF9B /* OutlineTableViewController.swift */,
-				0A7AF83C293C206300986C65 /* Launch Screen.storyboard */,
 				0A503695293EB49A0032BD31 /* CloudDAO.swift */,
 				0A50369729418AC00032BD31 /* TCMGuide-Bridging-Header.h */,
 			);
@@ -165,7 +162,6 @@
 			files = (
 				C7F49C3C1F81705500E18B6B /* pdf-sample.pdf in Resources */,
 				C7C4D6631EF7117E009196B6 /* Assets.xcassets in Resources */,
-				0A7AF83D293C206300986C65 /* Launch Screen.storyboard in Resources */,
 				C7C4D6611EF7117E009196B6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -328,7 +324,7 @@
 				DEVELOPMENT_TEAM = M8LQU8GUST;
 				INFOPLIST_FILE = TCMGuide/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Kevin.Guide;
+				PRODUCT_BUNDLE_IDENTIFIER = Kevin.TCMGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "TCMGuide/TCMGuide-Bridging-Header.h";
@@ -351,7 +347,7 @@
 				DEVELOPMENT_TEAM = M8LQU8GUST;
 				INFOPLIST_FILE = TCMGuide/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Kevin.Guide;
+				PRODUCT_BUNDLE_IDENTIFIER = Kevin.TCMGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "TCMGuide/TCMGuide-Bridging-Header.h";

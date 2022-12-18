@@ -1,6 +1,6 @@
 //
 //  SHA256.swift
-//  PDFKitSample
+//  TCMGuide
 //
 //  Created by Kevin Fan on 2022/11/22.
 //  Copyright © 2022 Dobrinka Tabakova. All rights reserved.
