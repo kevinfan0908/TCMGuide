@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "截圖 2022-12-18 上午8.18.21.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
